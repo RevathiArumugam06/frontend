@@ -1,0 +1,1 @@
+export const API = "https://backend-2rmy.vercel.app"
